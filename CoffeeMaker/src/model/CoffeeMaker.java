@@ -47,5 +47,17 @@ public class CoffeeMaker {
         // TODO: complete the implementation of this method
     }
 
+public class BeansAmmountException {
+
+    privite double beans; "#It's not the right ammount of beans"
+    }
+
+    ///REQUIRES: exceptions
+    public BeansAmmountExeption (double beans){}
+    }
+
+    ///REQUIRES: exceptions
+    public double (get Beans){}
+    }
 
 }
