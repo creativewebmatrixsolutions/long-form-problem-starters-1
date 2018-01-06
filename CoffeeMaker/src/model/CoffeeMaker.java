@@ -49,7 +49,7 @@ public class CoffeeMaker {
 
 public class BeansAmmountException {
 
-    privite double beans; "#It's not the right ammount of beans"
+    private double beans; "#It's not the right ammount of beans"
     }
 
     ///REQUIRES: exceptions
